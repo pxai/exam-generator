@@ -1,0 +1,26 @@
+{
+  "name": "exam-generator",
+  "version": "1.0.0",
+  "description": "Examn generator made with angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BDs%1B%5BF%1B%5BB%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BCpxai/exam-generator.git"
+  },
+  "keywords": [
+    "angular",
+    "examenes"
+  ],
+  "author": "Pello Altadill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BDs%1B%5BF%1B%5BB%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BCpxai/exam-generator/issues"
+  },
+  "homepage": "https://github.com/%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BDs%1B%5BF%1B%5BB%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BCpxai/exam-generator#readme",
+  "dependencies": {
+    "angular": "^1.5.5"
+  }
+}
